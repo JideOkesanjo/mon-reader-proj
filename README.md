@@ -1,2 +1,3 @@
-# mon-reader-proj
-computer vision projects
+# Project Objective:
+In today's digital age, there is a pressing need for an efficient solution that provides the blind, researchers, and the general public with a streamlined and fully automated document digitalization experience. The challenge lies in creating a mobile tool that can swiftly capture high-quality scans in bulk, detect page flips, correct and enhance image quality, and recognize text with formatting integrity.
+The goal of this project is to build model which, given a series of images, can detect whether a page in a document is being flipped using a single image. The F1 score will be used as our measure of success. The aim is to attain a score closest to the value of 1, indicating near perfect precision and recall.
